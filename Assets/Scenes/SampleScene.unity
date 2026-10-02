@@ -3209,7 +3209,7 @@ Camera:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 4
+  m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -3386,7 +3386,7 @@ GameObject:
   - component: {fileID: 2127806551}
   - component: {fileID: 2127806552}
   m_Layer: 0
-  m_Name: john_idle_0 (1)
+  m_Name: john
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3402,7 +3402,7 @@ Animator:
   m_GameObject: {fileID: 2127806546}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b74a8cd838c4fd84ab32b739c626fe02, type: 2}
+  m_Controller: {fileID: 9100000, guid: b839b28509ddb924f9a9a11cc030307b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3565,7 +3565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a34d4fea3a85ae740abc83b84b103f76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JohnMovimiento
-  Speed: 2
+  Speed: 1
   JumpForce: 100
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
