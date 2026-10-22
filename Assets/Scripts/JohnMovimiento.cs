@@ -13,6 +13,7 @@ public class JohnMovimiento : MonoBehaviour
     private Animator Animator;
     private float Horizontal;
     private bool Grounded;
+    private float LastShot;
     
 
     void Start()
@@ -47,28 +48,30 @@ public class JohnMovimiento : MonoBehaviour
             Jump();
          }
 
-         if (Input.GetKey(KeyCode.Space))
+         if (Input.GetKey(KeyCode.Space) && Time.time > LastShot + 0.25f)
          {
             Shoot();
+            LastShot = Time.time;
          }
 
     }
 
-    private void Shoot()
-    {
-        Vector3 direction;
-        if (transform.localScale.x == 1.0f) direction = Vector2.right;
-        else direction = Vector2.left;
-
-        GameObject newBullet = Instantiate(bullet, transform.position + direction * 0.1f, Quaternion.identity);
-        newBullet.GetComponent<bulletScript>().SetDirection(direction);
-    }
 
     private void Jump()
     {
         Rigidbody2D.AddForce(Vector2.up * JumpForce);
     }
     
+        private void Shoot()
+    {
+        Vector3 direction;
+        if (transform.localScale.x == 1.0f) direction = Vector3.right;
+        else direction = Vector3.left;
+
+        GameObject newBullet = Instantiate(bullet, transform.position + direction * 0.1f, Quaternion.identity);
+        newBullet.GetComponent<bulletScript>().SetDirection(direction);
+    }
+
     private void FixedUpdate()
     {
         Rigidbody2D.linearVelocity = new Vector2(Horizontal * Speed, Rigidbody2D.linearVelocity.y);
