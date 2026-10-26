@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452553474230",
+    "project_id": "videojuego2d-761ae",
+    "storage_bucket": "videojuego2d-761ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452553474230:android:ea928045c44b1813502617",
+        "android_client_info": {
+          "package_name": "com.cristopher.videojuego2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujSFbipxq-sTqiE2kHL5t3oMg5hAachg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
