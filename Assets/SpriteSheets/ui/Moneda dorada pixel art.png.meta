@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: ce5538d3a254335408cc39687162be76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4189976292723302766
+    second: Moneda dorada pixel art_0
+  - first:
+      213: 5970576937865276331
+    second: Moneda dorada pixel art_1
+  - first:
+      213: -835076170349690339
+    second: Moneda dorada pixel art_2
+  - first:
+      213: 7506852057183837789
+    second: Moneda dorada pixel art_3
+  - first:
+      213: 6608617076345028528
+    second: Moneda dorada pixel art_4
+  - first:
+      213: -8889804678033066159
+    second: Moneda dorada pixel art_5
+  - first:
+      213: -390203233627731547
+    second: Moneda dorada pixel art_6
+  - first:
+      213: -6323392331806327980
+    second: Moneda dorada pixel art_7
+  - first:
+      213: -4025698958080693900
+    second: Moneda dorada pixel art_8
+  - first:
+      213: -1837143009454604523
+    second: Moneda dorada pixel art_9
+  - first:
+      213: 1272987946020163189
+    second: Moneda dorada pixel art_10
+  - first:
+      213: 9223270059806227910
+    second: Moneda dorada pixel art_11
+  - first:
+      213: 1393686732159557864
+    second: Moneda dorada pixel art_12
+  - first:
+      213: 1666769536726568973
+    second: Moneda dorada pixel art_13
+  - first:
+      213: -7600126745461263599
+    second: Moneda dorada pixel art_14
+  - first:
+      213: -3749074174716490214
+    second: Moneda dorada pixel art_15
+  - first:
+      213: -4526065370596321996
+    second: Moneda dorada pixel art_16
+  - first:
+      213: 8452064247691824981
+    second: Moneda dorada pixel art_17
+  - first:
+      213: 4356268192388443977
+    second: Moneda dorada pixel art_18
+  - first:
+      213: 7367818341061352283
+    second: Moneda dorada pixel art_19
+  - first:
+      213: 8495258674481414563
+    second: Moneda dorada pixel art_20
+  - first:
+      213: 1043240643785509245
+    second: Moneda dorada pixel art_21
+  - first:
+      213: 5661242192626557129
+    second: Moneda dorada pixel art_22
+  - first:
+      213: -4380213698542895489
+    second: Moneda dorada pixel art_23
+  - first:
+      213: 3100410765225093392
+    second: Moneda dorada pixel art_24
+  - first:
+      213: -5847264179837653771
+    second: Moneda dorada pixel art_25
+  - first:
+      213: -759216776700142385
+    second: Moneda dorada pixel art_26
+  - first:
+      213: 3444577013242341369
+    second: Moneda dorada pixel art_27
+  - first:
+      213: 2006430149339564307
+    second: Moneda dorada pixel art_28
+  - first:
+      213: -1320527861028909061
+    second: Moneda dorada pixel art_29
+  - first:
+      213: 6427726508768273531
+    second: Moneda dorada pixel art_30
+  - first:
+      213: -7366897884437002418
+    second: Moneda dorada pixel art_31
+  - first:
+      213: 6393343675163612522
+    second: Moneda dorada pixel art_32
+  - first:
+      213: 1038307557166595527
+    second: Moneda dorada pixel art_33
+  - first:
+      213: 8423566807925070291
+    second: Moneda dorada pixel art_34
+  - first:
+      213: 7993095285981479970
+    second: Moneda dorada pixel art_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 369
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e5beed2c63ad5c0800000000000000
+      internalID: -4189976292723302766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 725
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab699d6710cbd250800000000000000
+      internalID: 5970576937865276331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 934
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c9e1c5a63964f0800000000000000
+      internalID: -835076170349690339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 547
+        width: 233
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e5ad94c22bd2860800000000000000
+      internalID: 7506852057183837789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf302c873686bb50800000000000000
+      internalID: 6608617076345028528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 403
+        width: 10
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157bb3bdeb111a480800000000000000
+      internalID: -8889804678033066159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 495
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90965f938b59af0800000000000000
+      internalID: -390203233627731547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 561
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b314f4d2cce38a0800000000000000
+      internalID: -6323392331806327980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 471
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a0fe6028d128c0800000000000000
+      internalID: -4025698958080693900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 521
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fbddf9a282186e0800000000000000
+      internalID: -1837143009454604523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 433
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec2e5dacf8aa110800000000000000
+      internalID: 1272987946020163189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 496
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdfe3e9043afff70800000000000000
+      internalID: 9223270059806227910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 483
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ab86e2be575310800000000000000
+      internalID: 1393686732159557864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 475
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00970f001e812710800000000000000
+      internalID: 1666769536726568973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 434
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f5d00efce68690800000000000000
+      internalID: -7600126745461263599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 447
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ece6bc6ec98fbc0800000000000000
+      internalID: -3749074174716490214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_16
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 445
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d86b868f2031c0800000000000000
+      internalID: -4526065370596321996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_17
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 433
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f437ef6a3cb4570800000000000000
+      internalID: 8452064247691824981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 398
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f65a927d2947c30800000000000000
+      internalID: 4356268192388443977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 397
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd19caebfbf3660800000000000000
+      internalID: 7367818341061352283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 349
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1458f21c835e570800000000000000
+      internalID: 8495258674481414563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 367
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c51496d55a7e00800000000000000
+      internalID: 1043240643785509245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 215
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a5f697c5c09e40800000000000000
+      internalID: 5661242192626557129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7efc0a39da5633c0800000000000000
+      internalID: -4380213698542895489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 277
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e90f0a2fd60b20800000000000000
+      internalID: 3100410765225093392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_25
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 275
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc29e465385adea0800000000000000
+      internalID: -5847264179837653771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 225
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc55453d58b675f0800000000000000
+      internalID: -759216776700142385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 207
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f729cb1b889dcf20800000000000000
+      internalID: 3444577013242341369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319c40e179548db10800000000000000
+      internalID: 2006430149339564307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_29
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 111
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff8d5728ea8cade0800000000000000
+      internalID: -1320527861028909061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 45
+        width: 131
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ae74443fd33950800000000000000
+      internalID: 6427726508768273531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_31
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 63
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474e85d76583c990800000000000000
+      internalID: -7366897884437002418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 79
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a651e1df238b9b850800000000000000
+      internalID: 6393343675163612522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_33
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 47
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdb488d83fc86e00800000000000000
+      internalID: 1038307557166595527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91520c16586e470800000000000000
+      internalID: 8423566807925070291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda dorada pixel art_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 55
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22486c830dd2dee60800000000000000
+      internalID: 7993095285981479970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 879875fed01ce7d4191eaaf48694ad4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moneda dorada pixel art_0: -4189976292723302766
+      Moneda dorada pixel art_1: 5970576937865276331
+      Moneda dorada pixel art_10: 1272987946020163189
+      Moneda dorada pixel art_11: 9223270059806227910
+      Moneda dorada pixel art_12: 1393686732159557864
+      Moneda dorada pixel art_13: 1666769536726568973
+      Moneda dorada pixel art_14: -7600126745461263599
+      Moneda dorada pixel art_15: -3749074174716490214
+      Moneda dorada pixel art_16: -4526065370596321996
+      Moneda dorada pixel art_17: 8452064247691824981
+      Moneda dorada pixel art_18: 4356268192388443977
+      Moneda dorada pixel art_19: 7367818341061352283
+      Moneda dorada pixel art_2: -835076170349690339
+      Moneda dorada pixel art_20: 8495258674481414563
+      Moneda dorada pixel art_21: 1043240643785509245
+      Moneda dorada pixel art_22: 5661242192626557129
+      Moneda dorada pixel art_23: -4380213698542895489
+      Moneda dorada pixel art_24: 3100410765225093392
+      Moneda dorada pixel art_25: -5847264179837653771
+      Moneda dorada pixel art_26: -759216776700142385
+      Moneda dorada pixel art_27: 3444577013242341369
+      Moneda dorada pixel art_28: 2006430149339564307
+      Moneda dorada pixel art_29: -1320527861028909061
+      Moneda dorada pixel art_3: 7506852057183837789
+      Moneda dorada pixel art_30: 6427726508768273531
+      Moneda dorada pixel art_31: -7366897884437002418
+      Moneda dorada pixel art_32: 6393343675163612522
+      Moneda dorada pixel art_33: 1038307557166595527
+      Moneda dorada pixel art_34: 8423566807925070291
+      Moneda dorada pixel art_35: 7993095285981479970
+      Moneda dorada pixel art_4: 6608617076345028528
+      Moneda dorada pixel art_5: -8889804678033066159
+      Moneda dorada pixel art_6: -390203233627731547
+      Moneda dorada pixel art_7: -6323392331806327980
+      Moneda dorada pixel art_8: -4025698958080693900
+      Moneda dorada pixel art_9: -1837143009454604523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
